@@ -1,6 +1,12 @@
 <h1>This is a level 1 heading created using the h1 tag</h1>
+<!-- Below is a <br> which is creates a line break -->
+<br>
 <h2>This is a level 2 heading created using the h2 tag</h2>
+<br>
 <h3>This is a level 3 heading created using the h3 tag</h3>
+<br>
 <h4>This is a level 4 heading created using the h4 tag</h4>
+<br>
 <h5>This is a level 5 heading created using the h5 tag</h5>
+<br>
 <h6>This is a level 6 heading created using the h6 tag</h6>
